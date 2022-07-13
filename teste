@@ -3,6 +3,6 @@
   <title>Index - PHP</title>
  </head>
  <body>
- <?php echo "<p>Minha primeira página em PAHAPA</p>"; ?>
+ <?php echo "<p>Minha primeira página em ppp</p>"; ?>
  </body>
 </html>
